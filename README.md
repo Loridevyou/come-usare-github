@@ -48,7 +48,7 @@ I progetti più semplici - ma per questo non banali - possono essere formati da 
 
 Il file README.MD - come gli altri file di testo - sono in formato *Markdown*: cosa significa? Nulla di particolarmente insidioso, anzi. E' un formato di testo "semplificato" che permette di scrivere utilizzando determinate regole. Ha il vantaggio di essere molto "leggero" e "trasportabile" tra vari sistemi operativi.
 
-Personalmente utilizzare il Markdonw per scrivere un testo è una cosa che adoro perché ti permette di creare testi velocemente, puliti e chiari. [Sul mio blog](https://marcogovoni.it) - ad esempio - tutti gli articoli sono scritti in Markdown.
+Personalmente utilizzare il Markdown per scrivere un testo è una cosa che adoro perché ti permette di creare testi velocemente, puliti e chiari. [Sul mio blog](https://marcogovoni.it) - ad esempio - tutti gli articoli sono scritti in Markdown.
 
 ## Ed ora?
 Se ti sei iscritto ora a GitHub, inizia ad esplorare: usa il campo ricerca per trovare qualcosa che ti interessi, leggi, approfondisci e.... seguimi :innocent:
